@@ -1,5 +1,5 @@
-Player X:
-5
- | | 
+Player Y:
+1
+O| | 
  |X| 
  | |
